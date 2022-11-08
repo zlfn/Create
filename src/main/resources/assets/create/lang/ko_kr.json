@@ -1136,7 +1136,7 @@
 	"create.schematic.tool.print": "설치",
 	"create.schematic.tool.flip": "뒤집기",
 	"create.schematic.tool.deploy.description.0": "구조물의 위치를 설정합니다.",
-	"create.schematic.tool.deploy.description.1": "오른쪽 버튼을 누르면 땅에 배치합니다.",
+	"create.schematic.tool.deploy.description.1": "우클릭으로 땅에 배치합니다.",
 	"create.schematic.tool.deploy.description.2": "[Ctrl]을 누르면 일정 거리를 유지합니다.",
 	"create.schematic.tool.deploy.description.3": "[Ctrl]을 누르고 스크롤하면 거리를 변경합니다.",
 	"create.schematic.tool.move.description.0": "설계도를 수평 이동합니다.",
@@ -2802,7 +2802,7 @@
 
 	"create.ponder.sequenced_gearshift.header": "순서 기어시프트를 통한 회전 속도 제어",
 	"create.ponder.sequenced_gearshift.text_1": "순서 기어시프트는 설정한 지시에 따라 회전됩니다.",
-	"create.ponder.sequenced_gearshift.text_2": "오른쪽 버튼을 누르면 설정 창이 열립니다.",
+	"create.ponder.sequenced_gearshift.text_2": "우클릭으로 설정 창을 엽니다.",
 	"create.ponder.sequenced_gearshift.text_3": "레드스톤 신호를 받으면 설정된 지시에 따라 회전하기 시작합니다.",
 	"create.ponder.sequenced_gearshift.text_4": "완료되면, 다음 레드스톤 신호를 기다립니다.",
 	"create.ponder.sequenced_gearshift.text_5": "레드스톤 비교기를 사용하면 현재 진행 상황을 알 수 있습니다.",
