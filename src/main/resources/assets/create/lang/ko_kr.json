@@ -1484,6 +1484,7 @@
 	"create.schedule.condition.threshold.equal": "다음과 동일하면",
 	"create.schedule.condition.threshold.x_units_of_item": "%3$s %1$s %2$s",
 	"create.schedule.condition.threshold.matching_content": "내용물 일치",
+  "create.schedule.condition.threshold.anything": "무엇이든지",
 	"create.schedule.condition.threshold.item_measure": "아이템 단위",
 	"create.schedule.condition.threshold.items": "개",
 	"create.schedule.condition.threshold.stacks": "스택",
@@ -1491,6 +1492,7 @@
 	"create.schedule.condition.threshold.status": "저장소: %1$s/%2$s %3$s",
 	"create.schedule.condition.threshold.place_item": "기준 아이템",
 	"create.schedule.condition.threshold.place_item_2": "필터를 사용할 수 있음",
+  "create.schedule.condition.threshold.place_item_3": "무엇이든지 매치하려면 비워두세요",
 	"create.schedule.condition.fluid_threshold": "액체 저장소 조건",
 	"create.schedule.condition.item_threshold": "아이템 저장소 조건",
 	"create.schedule.condition.redstone_link": "레드스톤 링크",
@@ -1565,7 +1567,7 @@
 	"create.station.train_not_aligned": "모든 객실이 일직선상에 없어",
 	"create.station.train_not_aligned_1": "해체할 수 없습니다",
 	"create.station.carriage_number": "%1$s번 객실:",
-	"create.station.retry": "이 문제를 해결하고 다시 시도해보세요",
+	"create.station.retry": "이 문제를 해결하고 다시 시도해 보세요",
 	"create.station.no_bogeys": "대차 없음",
 	"create.station.one_bogey": "대차 1개",
 	"create.station.more_bogeys": "대차 %1$s개",
@@ -1631,7 +1633,7 @@
 	"create.display_link.success": "성공적으로 대상과 연결되었습니다",
 	"create.display_link.clear": "대상 선택을 해제했습니다",
 	"create.display_link.too_far": "이곳은 대상과 너무 멉니다",
-	"create.display_link.invalid": "연결된 대상이 없습니다. 다시 시도해보세요",
+	"create.display_link.invalid": "연결된 대상이 없습니다. 다시 시도해 보세요",
 	"create.display_link.title": "디스플레이 링크",
 	"create.display_link.no_source": "디스플레이 정보 수집 대상이 아님",
 	"create.display_link.no_target": "디스플레이 정보 표시 대상이 아님",
@@ -1809,10 +1811,10 @@
 	"item.create.example_item.tooltip.action1": "These controls are displayed.",
 
 	"block.create.wooden_bracket.tooltip": "나무 지지대",
-	"block.create.wooden_bracket.tooltip.summary": "나무를 이용해 _축, 톱니바퀴, 파이프_를 꾸며보세요.",
+	"block.create.wooden_bracket.tooltip.summary": "나무를 이용해 _축, 톱니바퀴, 파이프_를 꾸며 보세요.",
 
 	"block.create.metal_bracket.tooltip": "금속 지지대",
-	"block.create.metal_bracket.tooltip.summary": "금속을 이용해 _축, 톱니바퀴, 파이프_를 꾸며보세요.",
+	"block.create.metal_bracket.tooltip.summary": "금속을 이용해 _축, 톱니바퀴, 파이프_를 꾸며 보세요.",
 
 	"block.create.seat.tooltip": "SEAT",
 	"block.create.seat.tooltip.summary": "앉아서 드라이브를 즐기세요! _움직이는 구조물_에 _플레이어_를 _고정_시킵니다. 가구용으로도 좋습니다! 다양한 색깔이 존재합니다.",
@@ -2020,7 +2022,7 @@
 	"block.create.placard.tooltip.behaviour2": "플래카드의 아이템을 _제거_합니다.",
 
 	"block.create.flywheel.tooltip": "FLYWHEEL",
-	"block.create.flywheel.tooltip.summary": "황동 바퀴로 _장치_를 _장식_해보세요.",
+	"block.create.flywheel.tooltip.summary": "황동 바퀴로 _장치_를 _장식_해 보세요.",
 	"block.create.flywheel.tooltip.condition1": "동력을 공급받을 때",
 	"block.create.flywheel.tooltip.behaviour1": "회전합니다.",
 
@@ -2037,7 +2039,7 @@
 	"item.create.crafting_blueprint.behaviour2": "자신의 _인벤토리_에서 해당 슬롯의 _조합법_을 _실행_합니다. _웅크리면서_ 우클릭하면 한 번에 여러개를 조합합니다.",
 
 	"item.create.minecart_coupling.tooltip": "MINECART COUPLING",
-	"item.create.minecart_coupling.tooltip.summary": "당신의 모든 _수레들을 이어 _멋진 _기차_를 만들어보세요.",
+	"item.create.minecart_coupling.tooltip.summary": "당신의 모든 _수레들을 이어 _멋진 _기차_를 만들어 보세요.",
 	"item.create.minecart_coupling.tooltip.condition1": "광산 수레에 사용할 때",
 	"item.create.minecart_coupling.tooltip.behaviour1": "_두 수레를 묶어_ 이동할 때 고정된 _거리를 유지하게_ 합니다.",
 
@@ -2924,7 +2926,7 @@
 	"create.ponder.train_assembly.text_4": "조립할 때는 다른 기차가 이 정거장에 정차하지 않습니다.",
 	"create.ponder.train_assembly.text_5": "선로에 기차 케이스를 설치하여 새로운 대차를 만드세요.",
 	"create.ponder.train_assembly.text_6": "선로를 우클릭하여 다른 대차 디자인으로 변경할 수 있습니다.",
-	"create.ponder.train_assembly.text_7": "강력 접착제로 블록을 붙여보세요.",
+	"create.ponder.train_assembly.text_7": "강력 접착제로 블록을 붙여 보세요.",
 	"create.ponder.train_assembly.text_8": "기차는 조립될 때 창고나 통에 연료가 있다면 더 빨리 이동합니다.",
 	"create.ponder.train_assembly.text_9": "금고에 있는 연료는 기차가 사용하지 않습니다.",
 
@@ -3013,7 +3015,7 @@
 
 	"create.ponder.windmill_source.header": "풍차 베어링으로 동력 생산하기",
 	"create.ponder.windmill_source.text_1": "풍차 베어링은 앞에 있는 블록을 부착합니다.",
-	"create.ponder.windmill_source.text_2": "강력 접착제로 움직일 수 있는 구조물을 만들어보세요.",
+	"create.ponder.windmill_source.text_2": "강력 접착제로 움직일 수 있는 구조물을 만들어 보세요.",
 	"create.ponder.windmill_source.text_3": "충분한 날개 블록이 있어야 풍차 역할을 합니다.",
 	"create.ponder.windmill_source.text_4": "우클릭으로 가동하면, 풍차 베어링은 동력을 생산합니다.",
 	"create.ponder.windmill_source.text_5": "날개 블록의 개수가 동력 속도를 결정합니다.",
